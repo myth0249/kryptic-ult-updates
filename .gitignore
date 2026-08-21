@@ -2,5 +2,7 @@
 !version.txt
 !README.md
 !KrypticUltLoader.exe
+!icons/
+!icons/**
 !.gitignore
 

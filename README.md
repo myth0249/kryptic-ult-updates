@@ -1,5 +1,7 @@
 # Kryptic Ultimate
 
+Current release: **1.8**
+
 Keep these files in the same folder:
 
 - `Kryptic Ult Loader.exe`
